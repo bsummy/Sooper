@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/violet-hacks-hackathon/static/css/main.073c9b0a.css",
+    "main.js": "/violet-hacks-hackathon/static/js/main.ccf18b6a.js",
+    "static/js/787.b889a648.chunk.js": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js",
+    "static/media/logo.svg": "/violet-hacks-hackathon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/violet-hacks-hackathon/index.html",
+    "main.073c9b0a.css.map": "/violet-hacks-hackathon/static/css/main.073c9b0a.css.map",
+    "main.ccf18b6a.js.map": "/violet-hacks-hackathon/static/js/main.ccf18b6a.js.map",
+    "787.b889a648.chunk.js.map": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ccf18b6a.js"
+  ]
+}
