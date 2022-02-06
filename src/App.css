@@ -17,18 +17,3 @@
   font-size: calc(20px + 2vmin);
   color: #000000;
 }
-
-.Cross {
-  background: linear-gradient(to right, red 39%, purple 61%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: calc(100% + 20vmin);
-}
-
-.Cross-left {
-  align-items: left;
- }
- .Cross-right {
-  align-items: right;
- }
