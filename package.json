@@ -1,7 +1,7 @@
 {
-  "name": "violet-hacks-hackathon",
-  "homepage": "https://bsummy.github.io/violet-hacks-hackathon/",
-  "version": "0.1.0",
+  "name": "sooper",
+  "homepage": "https://bsummy.github.io/Sooper/",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@material-ui/lab": "^4.0.0-alpha.60",
