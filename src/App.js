@@ -7,13 +7,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p className="center-text-left">
-          X
-        </p>
-        <p className="center-text-right">
-          X
-        </p>
       </header>
+        <div className="Cross">
+          <p className="Cross-left">
+            X
+          </p>
+          <p className="Cross-right">
+            X
+          </p>
+        </div>
     </div>
   );
 }

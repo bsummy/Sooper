@@ -14,7 +14,7 @@
   flex-direction: column;
 }
 
-.center {
+.Cross {
   background: linear-gradient(to right, red 39%, purple 61%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -22,9 +22,9 @@
   font-size: calc(100% + 20vmin);
 }
 
-.center-text-left {
-  text-align: left;
+.Cross-left {
+  align-items: left;
  }
- .center-text-right {
-  text-align: right;
+ .Cross-right {
+  align-items: right;
  }
