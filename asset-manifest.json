@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/violet-hacks-hackathon/static/css/main.94d733bb.css",
-    "main.js": "/violet-hacks-hackathon/static/js/main.5fa19589.js",
-    "static/js/787.b889a648.chunk.js": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js",
-    "static/media/logo.svg": "/violet-hacks-hackathon/static/media/logo.f41b9778abbe2eb9b7f9a5b973b87534.svg",
-    "static/media/Creators.svg": "/violet-hacks-hackathon/static/media/Creators.264ccfa1036fb12f5cc059e4fb741d03.svg",
-    "static/media/Proof.svg": "/violet-hacks-hackathon/static/media/Proof.68dac80835da350808411f74a209632a.svg",
-    "static/media/About.svg": "/violet-hacks-hackathon/static/media/About.8d2252e938f531e62533520fb1f560cc.svg",
-    "index.html": "/violet-hacks-hackathon/index.html",
-    "main.94d733bb.css.map": "/violet-hacks-hackathon/static/css/main.94d733bb.css.map",
-    "main.5fa19589.js.map": "/violet-hacks-hackathon/static/js/main.5fa19589.js.map",
-    "787.b889a648.chunk.js.map": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js.map"
+    "main.css": "/Sooper/static/css/main.94d733bb.css",
+    "main.js": "/Sooper/static/js/main.59cd9508.js",
+    "static/js/787.1a998d68.chunk.js": "/Sooper/static/js/787.1a998d68.chunk.js",
+    "static/media/logo.svg": "/Sooper/static/media/logo.f41b9778abbe2eb9b7f9a5b973b87534.svg",
+    "static/media/Creators.svg": "/Sooper/static/media/Creators.264ccfa1036fb12f5cc059e4fb741d03.svg",
+    "static/media/Proof.svg": "/Sooper/static/media/Proof.68dac80835da350808411f74a209632a.svg",
+    "static/media/About.svg": "/Sooper/static/media/About.8d2252e938f531e62533520fb1f560cc.svg",
+    "index.html": "/Sooper/index.html",
+    "main.94d733bb.css.map": "/Sooper/static/css/main.94d733bb.css.map",
+    "main.59cd9508.js.map": "/Sooper/static/js/main.59cd9508.js.map",
+    "787.1a998d68.chunk.js.map": "/Sooper/static/js/787.1a998d68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d733bb.css",
-    "static/js/main.5fa19589.js"
+    "static/js/main.59cd9508.js"
   ]
 }
