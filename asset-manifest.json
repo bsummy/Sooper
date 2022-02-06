@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/violet-hacks-hackathon/static/css/main.2ccc2810.css",
-    "main.js": "/violet-hacks-hackathon/static/js/main.1a9b404b.js",
+    "main.css": "/violet-hacks-hackathon/static/css/main.94d733bb.css",
+    "main.js": "/violet-hacks-hackathon/static/js/main.5fa19589.js",
     "static/js/787.b889a648.chunk.js": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js",
-    "static/media/logo.svg": "/violet-hacks-hackathon/static/media/logo.0bece435a292c8595b88114cb0fc1dc2.svg",
+    "static/media/logo.svg": "/violet-hacks-hackathon/static/media/logo.f41b9778abbe2eb9b7f9a5b973b87534.svg",
+    "static/media/Creators.svg": "/violet-hacks-hackathon/static/media/Creators.264ccfa1036fb12f5cc059e4fb741d03.svg",
+    "static/media/Proof.svg": "/violet-hacks-hackathon/static/media/Proof.68dac80835da350808411f74a209632a.svg",
+    "static/media/About.svg": "/violet-hacks-hackathon/static/media/About.8d2252e938f531e62533520fb1f560cc.svg",
     "index.html": "/violet-hacks-hackathon/index.html",
-    "main.2ccc2810.css.map": "/violet-hacks-hackathon/static/css/main.2ccc2810.css.map",
-    "main.1a9b404b.js.map": "/violet-hacks-hackathon/static/js/main.1a9b404b.js.map",
+    "main.94d733bb.css.map": "/violet-hacks-hackathon/static/css/main.94d733bb.css.map",
+    "main.5fa19589.js.map": "/violet-hacks-hackathon/static/js/main.5fa19589.js.map",
     "787.b889a648.chunk.js.map": "/violet-hacks-hackathon/static/js/787.b889a648.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ccc2810.css",
-    "static/js/main.1a9b404b.js"
+    "static/css/main.94d733bb.css",
+    "static/js/main.5fa19589.js"
   ]
 }
