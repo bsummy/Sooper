@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# Sooper
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Harnessing the power of internet advertising for good!
 
-## Available Scripts
+[Give us a visit!](https://bsummy.github.io/Sooper/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+On the Internet, advertisements follow you everywhere, specifically designed to get you to buy "that one thing" you've been thinking about purchasing. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### If You Can't Beat Em, Join 'Em
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Sooper harnesses the power of Google Adsense to generate charitable donations, at no cost to you! All profits receieved from Sooper's traffic, go directly
+to a selected charity. Therefore, Sooper depends on the power of internet users to visit and share Sooper. Each year, Sooper's developers will select 
+a new charity to support. Our hope is in the future, Sooper's community will vote directly on charities to support.
 
-### `npm test`
+Although we are currently applying for the Google AdSense Program, Sooper hopes to begin making donations soon. According to Google estimates, 50,000 monthly
+visitors could generate up to 6.6k in charitable donations. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Talk About Small Actions Making A BIG Impact 
 
-### `npm run build`
+Super was created in 2022 by three McGill Univerity Students during The VioletHacks Hackathon. In honor of Violethacks, Sooper's first charity is...
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### The SeekHer Foundation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The SeekHer Foundation is focused on women's mental health. Their mission is "to bridge the gender gap of mental health through advocacy, research, and support 
+for emerging leaders who are impacting change in their local communities & beyond."
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The SeekHer Foundation is a registered 501(c)(3) organization in the United States. 
 
-### `npm run eject`
+[Check them out here!](https://seekher.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Proof
+Once Sooper begins making donations, ALL donation reciepts will all be stored under the Proof tab. This way, you can be sure your visits are making a difference!
+We hope to be able to make donations quarterly to reduce transactions, but also get Sooper's revanue into the right place, quickly.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Creators
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Sooper was created by Anisha Mohapatraa, Bo Lau, and Bennett Summy.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
