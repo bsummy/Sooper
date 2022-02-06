@@ -23,8 +23,8 @@ function App() {
         <img src={Creators} width={300} />
         <img src={Proof} width={300} />
       
-        <Box bgcolor = "#EEE1C6" width={400} height={330} border='10px solid' align='center'>
-          <p> Welcome to Sooper! All ad revanues generated from this site are donated directly to charity. Help us harness the power of the internet for good!</p>
+        <Box bgcolor = "#EEE1C6" width={700} height={330} border='40px double #431E15' align='center'>
+          <p> Welcome to Sooper! <br></br> <br></br>  All ad revanues generated from this site are donated to charity. <br></br> Help us harness the power of the internet for good!</p>
         </Box>
       </header>
     </div>
