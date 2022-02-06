@@ -7,12 +7,17 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Bennett Summy.
+        <p className="center-text-left">
+          X
+        </p>
+        <p className="center-text-right">
+          X
         </p>
       </header>
     </div>
   );
 }
+
+
 
 export default App;
