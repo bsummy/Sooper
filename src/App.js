@@ -9,25 +9,21 @@ import React, {}  from 'react';
 
 function App() {
   return (
-
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center"
-      }}
-    >
+    <html>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <img src={About} width={300} />
-        <img src={Creators} width={300} />
-        <img src={Proof} width={300} />
-      
-        <Box bgcolor = "#EEE1C6" width={700} height={330} border='40px double #431E15' align='center'>
-          <p> Welcome to Sooper! <br></br> <br></br>  All ad revanues generated from this site are donated to charity. <br></br> Help us harness the power of the internet for good!</p>
-        </Box>
+          <img src={logo} className="App-logo" alt="logo" />
       </header>
-    </div>
+      <body>
+        <img src={About} margin = "10px" width={250} alt="About Button"/>
+        <img src={Creators} margin = "10px" width={250} alt="Creator Button"/>
+        <img src={Proof} margin = "10px" width={250} alt="Proof Button"/>
+      </body>
+      <div align='center'>
+        <Box className = "Box-box">
+          <p> Welcome to Sooper! <br></br> <br></br>  All ad revanues generated from this site are donated to charity. <br></br> <br></br> Help us harness the power of the internet for good!</p>
+        </Box>
+      </div>
+    </html>
   );
 }
 
