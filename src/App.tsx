@@ -1,14 +1,16 @@
 import './App.css';
-import logo from './logo.svg';
+import ReactLogo from './logo.svg';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import ButtonsBox from './ButtonsBox';
 
-function App() {
+const logo = require("./logo.svg") as string;
+
+const App = () => {
   return (
     <>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ReactLogo} className="App-logo" alt="logo" />
       </header>
       <ButtonsBox />
     </>

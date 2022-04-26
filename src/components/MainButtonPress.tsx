@@ -1,10 +1,11 @@
-//import {ButtonsBox} from '../ButtonsBox';
+import ButtonsBox from '../ButtonsBox';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 class MainButtonPress extends ButtonsBox{
-  
-  constructor(props){
+  fileName: string;
+  constructor(props: { fileName: string; }){
+
     super(props);
     this.fileName = props.fileName;
   }

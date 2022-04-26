@@ -1,10 +1,13 @@
-//import {ButtonsBox} from '../ButtonsBox';
+import ButtonsBox from '../ButtonsBox';
 import Box from '@material-ui/core/Box';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+
 class TextBox extends ButtonsBox {
+    text: string;
+    homeText: any;
     constructor(props){
         super(props);
         this.homeText = props.name;
