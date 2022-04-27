@@ -37,8 +37,38 @@ body {
   font-family: Overpass, Verdana, Geneva, Tahoma, sans-serif;
   font-size: 25px;
   background: #EEE1C6;
-  width: 200;
-  height: 330;
+  width: 600px;
+  height: 300px;
   border: 35px double #431E15; 
+  box-align: 'center';
   align-items: 'center';
+  align-self: 'center';
+  align-content: 'center';
+  align-tracks: 'center';
+}
+
+.tab-list {
+  align-content: center;
+  padding: 0px 200px;
+  border-bottom: 3px solid #431E15;
+
+}
+
+.tab-list-item {
+  display: inline-block;
+  list-style: none;
+  margin-bottom: center;
+  padding: 0.5rem 0.75rem;
+  align-content: center;
+}
+
+.tab-list-active {
+  background-color: #ffd771;
+  border: solid #431E15;
+  border-width: 3px 3px 0 3px;
+}
+
+.image-format {
+  padding-top: 20px;
+  width: 250px;
 }
