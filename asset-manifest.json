@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Sooper/static/css/main.1b75dd35.css",
-    "main.js": "/Sooper/static/js/main.3773efae.js",
+    "main.css": "/Sooper/static/css/main.883099d0.css",
+    "main.js": "/Sooper/static/js/main.de85c9f0.js",
     "static/js/787.1a998d68.chunk.js": "/Sooper/static/js/787.1a998d68.chunk.js",
-    "static/media/logo.svg": "/Sooper/static/media/logo.5bef099471ff0444f815713fbb8022c5.svg",
+    "static/media/SooperLogo.svg": "/Sooper/static/media/SooperLogo.5bef099471ff0444f815713fbb8022c5.svg",
     "static/media/Creators.svg": "/Sooper/static/media/Creators.a0948573ed99f05e22d90cf58cc63ecc.svg",
     "static/media/Proof.svg": "/Sooper/static/media/Proof.3f3f1ae7994d2383fb062ee07e89b0cc.svg",
     "static/media/About.svg": "/Sooper/static/media/About.25d05e451ca28206cf6aca2228caa5d7.svg",
     "index.html": "/Sooper/index.html",
-    "main.1b75dd35.css.map": "/Sooper/static/css/main.1b75dd35.css.map",
-    "main.3773efae.js.map": "/Sooper/static/js/main.3773efae.js.map",
+    "main.883099d0.css.map": "/Sooper/static/css/main.883099d0.css.map",
+    "main.de85c9f0.js.map": "/Sooper/static/js/main.de85c9f0.js.map",
     "787.1a998d68.chunk.js.map": "/Sooper/static/js/787.1a998d68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b75dd35.css",
-    "static/js/main.3773efae.js"
+    "static/css/main.883099d0.css",
+    "static/js/main.de85c9f0.js"
   ]
 }
