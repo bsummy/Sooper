@@ -2,7 +2,7 @@
 
 Harnessing the power of internet advertising for good!
 
-[Give us a visit!](https://bsummy.github.io/Sooper/)
+[Give us a visit!](https://sooper.dev/)
 
 ---
 
