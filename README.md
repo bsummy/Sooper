@@ -32,7 +32,7 @@ The SeekHer Foundation is a registered 501(c)(3) organization in the United Stat
 
 ### Proof
 Once Sooper begins making donations, ALL donation reciepts will all be stored under the Proof tab. This way, you can be sure your visits are making a difference!
-We hope to be able to make donations quarterly to reduce transactions, but also get Sooper's revanue into the right place, quickly.
+We hope to be able to make donations quarterly to reduce transactions, but also get Sooper's revenue into the right place, quickly.
 
 ### Creators
 
