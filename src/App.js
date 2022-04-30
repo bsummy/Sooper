@@ -9,7 +9,6 @@ import Creators from './components/buttonImages/Creators.svg';
 import About from './components/buttonImages/About.svg'; 
 
 
-
 function App() {
   return (
     <>
